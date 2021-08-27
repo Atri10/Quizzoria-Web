@@ -41,9 +41,9 @@ Create Quiz Screens
 ![Create](https://user-images.githubusercontent.com/64589033/131053663-474855b4-bea4-489a-bbcc-7a45303aa22f.png)
 
 
-```
-Technologies & Tools used
 
+#Technologies & Tools used
+```
 FrontEnd - Flutter
 BackEnd - Python
 Database - Firebase
