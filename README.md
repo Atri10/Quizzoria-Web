@@ -14,7 +14,7 @@ Download Production Ready-APK from this Link
 ```
 Create Quiz
 ```
-[Sample Content File to Create Quiz](https://github.com/Atri10/Quizzoria-Web/files/7063569/Content.xlsx)
+[Sample Excel Content File to Create Quiz](https://github.com/Atri10/Quizzoria-Web/files/7063569/Content.xlsx)
 
 ```
 Test Code to Play Quiz : AF1PZC6
