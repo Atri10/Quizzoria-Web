@@ -1,4 +1,4 @@
-<h1 href="https://quizzoria.pythonanywhere.com/">Quizzoria</h1>
+<h1><a href="https://quizzoria.pythonanywhere.com/">Quizzoria</h1>
 
 Quzzoria is a cross platform mobile application Quiz game platform designed to provide Ad free, UI rich and amazing experience to participates and organizers. 
 
