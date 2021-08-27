@@ -7,6 +7,7 @@ Quzzoria is a cross platform mobile application Quiz game platform designed to p
 Download Production Ready-APK from this Link
 
 [Link to APK](https://quizzoria.pythonanywhere.com/Sample/APK? "Quizzoria APK")
+</br>
 [Link to Website](https://quizzoria.pythonanywhere.com/ "Quizzoria")
 
 ## Website Preview
