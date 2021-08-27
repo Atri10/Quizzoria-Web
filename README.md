@@ -10,6 +10,15 @@ Download Production Ready-APK from this Link
 </br>
 [Link to Website](https://quizzoria.pythonanywhere.com/ "Quizzoria")
 
+# Usage
+```
+Sample Content File
+```
+[Content File](https://github.com/Atri10/Quizzoria-Web/files/7063569/Content.xlsx)
+
+```
+Test Code to Play Quiz : AF1PZC6
+```
 ## Website Preview
 
 ![Home Screen](https://user-images.githubusercontent.com/64589033/131053050-9492063e-d0ee-4cc6-b109-ca77bd2a6742.png)
@@ -29,6 +38,10 @@ Join Quiz Screens
 Create Quiz Screens
 ```
 ![Create](https://user-images.githubusercontent.com/64589033/131053663-474855b4-bea4-489a-bbcc-7a45303aa22f.png)
+
+
+
+
 
 
 
