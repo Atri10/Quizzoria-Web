@@ -23,11 +23,12 @@ Main Screens
 ```
 Join Quiz Screens
 ```
-![Join](https://user-images.githubusercontent.com/64589033/131053656-65fe0ce2-8dad-4ee7-8a3f-780fa9504085.png)
+[PDF.pdf](https://github.com/Atri10/Quizzoria-Web/files/7063558/PDF.pdf)
 ```
 Create Quiz Screens
 ```
 ![Create](https://user-images.githubusercontent.com/64589033/131053663-474855b4-bea4-489a-bbcc-7a45303aa22f.png)
+
 
 
 
