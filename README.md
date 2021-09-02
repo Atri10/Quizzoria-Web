@@ -20,11 +20,6 @@ Create Quiz
 Test Code to Play Quiz : AF1PZC6
 ```
 
-## Website Preview
-
-![Home Screen](https://user-images.githubusercontent.com/64589033/131053050-9492063e-d0ee-4cc6-b109-ca77bd2a6742.png)
-![Group 4](https://user-images.githubusercontent.com/64589033/131053179-09d79ca6-3a72-4c76-bd62-fe94b51464f5.png)
-
 ## Quizzoria Mockup
 ```
 Main Screens
