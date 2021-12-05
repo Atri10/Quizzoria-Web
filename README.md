@@ -1,6 +1,6 @@
 <h1><a href="https://quizzoria.pythonanywhere.com/">Quizzoria</a></h1>
 
-Quzzoria is a cross platform mobile application Quiz game platform designed to provide Ad free, UI rich and amazing experience to participates and organizers. 
+Quzzoria is a cross platform mobile application Quiz game platform designed to provide Ad free, UI rich and amazing experience to participates and organizers. To know more visit our website
 
 ## Download Production ready APK
 
